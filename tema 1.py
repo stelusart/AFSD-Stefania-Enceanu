@@ -47,7 +47,7 @@ def stabilire_reducere(total, tip):
         val = 0.10 * total
     elif tip == "happy" and total >= 50.0:
         val = 0.15 * total
-    elif tip == "cupon" and total >= 25.0:
+    elif tip == "cupon" and total >=25.0:
         val = 7.0
 
     if tip != "fara" and tip != "inapoi" and val == 0 and total > 0:
@@ -132,4 +132,5 @@ while True:
         tip_reducere_activa = "fara"
         reducere_curenta = 0
     elif opt == "0":
+
         break
