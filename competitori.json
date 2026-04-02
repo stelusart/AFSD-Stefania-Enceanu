@@ -1,0 +1,27 @@
+[
+  {
+    "nume": "Andrei Popescu",
+    "punctaj": 95,
+    "timp": 118
+  },
+  {
+    "nume": "Maria Ionescu",
+    "punctaj": 95,
+    "timp": 115
+  },
+  {
+    "nume": "Vlad Dumitru",
+    "punctaj": 88,
+    "timp": 120
+  },
+  {
+    "nume": "Ana Matei",
+    "punctaj": 100,
+    "timp": 110
+  },
+  {
+    "nume": "Anca Pavel",
+    "punctaj": 100,
+    "timp": 110
+  }
+]
