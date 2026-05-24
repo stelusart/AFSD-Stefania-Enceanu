@@ -1,0 +1,58 @@
+[
+  {
+    "nume": "Actiuni_A",
+    "cost": 4000,
+    "profit": 1200,
+    "categorie": "actiuni",
+    "risc": "mediu"
+  },
+  {
+    "nume": "Fond_B",
+    "cost": 2500,
+    "profit": 700,
+    "categorie": "fonduri",
+    "risc": "scazut"
+  },
+  {
+    "nume": "Startup_C",
+    "cost": 5000,
+    "profit": 2000,
+    "categorie": "startup",
+    "risc": "ridicat"
+  },
+  {
+    "nume": "ETF_D",
+    "cost": 3000,
+    "profit": 850,
+    "categorie": "etf",
+    "risc": "mediu"
+  },
+  {
+    "nume": "Obligatiuni_E",
+    "cost": 1500,
+    "profit": 300,
+    "categorie": "obligatiuni",
+    "risc": "scazut"
+  },
+  {
+    "nume": "Imobiliare_F",
+    "cost": 6000,
+    "profit": 2200,
+    "categorie": "imobiliare",
+    "risc": "mediu"
+  },
+  {
+    "nume": "Crypto_G",
+    "cost": 2000,
+    "profit": 1100,
+    "categorie": "crypto",
+    "risc": "ridicat"
+  },
+  {
+    "nume": "Fond_H",
+    "cost": 3500,
+    "profit": 900,
+    "categorie": "fonduri",
+    "risc": "scazut"
+  }
+]
